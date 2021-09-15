@@ -1,0 +1,188 @@
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\Cadastro_Veiculos.exe
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\Cadastro_Veiculos.deps.json
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\Cadastro_Veiculos.runtimeconfig.json
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\Cadastro_Veiculos.runtimeconfig.dev.json
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\Cadastro_Veiculos.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\Cadastro_Veiculos.pdb
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\obj\Debug\netcoreapp3.1\Cadastro_Veiculos.csprojAssemblyReference.cache
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\obj\Debug\netcoreapp3.1\Cadastro_Veiculos.AssemblyInfoInputs.cache
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\obj\Debug\netcoreapp3.1\Cadastro_Veiculos.AssemblyInfo.cs
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\obj\Debug\netcoreapp3.1\Cadastro_Veiculos.csproj.CoreCompileInputs.cache
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\obj\Debug\netcoreapp3.1\Cadastro_Veiculos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\obj\Debug\netcoreapp3.1\Cadastro_Veiculos.RazorTargetAssemblyInfo.cache
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\obj\Debug\netcoreapp3.1\staticwebassets\Cadastro_Veiculos.StaticWebAssets.Manifest.cache
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\obj\Debug\netcoreapp3.1\staticwebassets\Cadastro_Veiculos.StaticWebAssets.xml
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\obj\Debug\netcoreapp3.1\Cadastro_Veiculos.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\obj\Debug\netcoreapp3.1\Cadastro_Veiculos.pdb
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\obj\Debug\netcoreapp3.1\Cadastro_Veiculos.genruntimeconfig.cache
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Desen de Software web\Cadastro_Veiculos\obj\Debug\netcoreapp3.1\Cadastro_Veiculos.csproj.CopyComplete
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\Cadastro_Veiculos.exe
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\Cadastro_Veiculos.deps.json
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\Cadastro_Veiculos.runtimeconfig.json
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\Cadastro_Veiculos.runtimeconfig.dev.json
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\Cadastro_Veiculos.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\Cadastro_Veiculos.pdb
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\obj\Debug\netcoreapp3.1\Cadastro_Veiculos.csprojAssemblyReference.cache
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\obj\Debug\netcoreapp3.1\Cadastro_Veiculos.AssemblyInfoInputs.cache
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\obj\Debug\netcoreapp3.1\Cadastro_Veiculos.AssemblyInfo.cs
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\obj\Debug\netcoreapp3.1\Cadastro_Veiculos.csproj.CoreCompileInputs.cache
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\obj\Debug\netcoreapp3.1\Cadastro_Veiculos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\obj\Debug\netcoreapp3.1\Cadastro_Veiculos.RazorTargetAssemblyInfo.cache
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\obj\Debug\netcoreapp3.1\Cadastro_Veiculos.csproj.CopyComplete
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\obj\Debug\netcoreapp3.1\staticwebassets\Cadastro_Veiculos.StaticWebAssets.Manifest.cache
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\obj\Debug\netcoreapp3.1\staticwebassets\Cadastro_Veiculos.StaticWebAssets.xml
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\obj\Debug\netcoreapp3.1\Cadastro_Veiculos.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\obj\Debug\netcoreapp3.1\Cadastro_Veiculos.pdb
+C:\Users\bruna\OneDrive\Área de Trabalho\Cadastro_Veiculos\obj\Debug\netcoreapp3.1\Cadastro_Veiculos.genruntimeconfig.cache
